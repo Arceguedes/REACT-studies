@@ -39,7 +39,7 @@ function App() {
       placeholder='joanadark@react.com'
       />
     <Spacer height="4"/>
-    <Button colorScheme='green' width="100%" marginTop="4">Enviar</Button>
+    <Button colorScheme='green' width="100%">Enviar</Button>
     </form>
   </div>
   )

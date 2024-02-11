@@ -6,5 +6,10 @@
 }
 
 .input-container .label{
-    font-size: 24px;
+    font-size: 16px;
+    text-align: start;
+    width: 100%;
+    margin-top: 4px;
+    margin-bottom: 8px;
+    font-weight: 500px;
 }
